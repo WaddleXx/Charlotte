@@ -1,1 +1,1 @@
-The theme runs on Discord client mod Vincord! 
+The theme runs on the Discord client mod Vencord! 
